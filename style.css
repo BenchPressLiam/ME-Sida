@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: purple;
+}
+
+header {
+    background-color: #333;
+    color: whitesmoke;
+    padding: 1em 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
+    color: whitesmoke;
+    text-decoration: none;
+    margin: 0 15px; 
+}
+
+main {
+    max-width: 800px;
+    margin: 2em auto;
+    padding: 0 1em;
+    background-color: whitesmoke;
+    
+}
+
+h1{
+    margin-top: 1em;
+}
+
+a {
+    color: lightskyblue;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
